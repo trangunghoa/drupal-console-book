@@ -4,12 +4,12 @@
 
 This book documents the [Drupal Console](http://drupalconsole.com/) project.
 
-## Contribute to the project
+## Đóng góp cho dự án
 
-You can contribute to improve this project on [Github](https://github.com/hechoendrupal/drupal-console)
+Bạn có thể đóng góp cho dự án này trên địa chỉ sau [Github](https://github.com/hechoendrupal/drupal-console)
 
-## Contribute to this documentation
+## Đóng góp cho tài liệu này
 
-You can contribute to improve this documentation on [GitHub](https://github.com/hechoendrupal/drupal-console-book).
+Bạn có thể đóng góp cho tài liệu này trên [GitHub](https://github.com/hechoendrupal/drupal-console-book).
 
 > Drupal is a registered trademark of Dries Buytaert.
